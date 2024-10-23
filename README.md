@@ -2,7 +2,7 @@
 
 👋 **Hello! I'm Abdul Wajid**, an **AI Engineer** with a passion for turning complex data into actionable insights. With hands-on experience in **machine learning**, **natural language processing (NLP)**, and **AI-driven solutions**, I help businesses leverage the power of **artificial intelligence** to solve real-world problems.
 
-🚀 As a **full-time freelancer**, I am available for hire, offering custom AI solutions that drive **innovation** and **efficiency** across diverse industries. From building intelligent chatbots to developing scalable data-driven models, I’m committed to delivering **high-impact results**.
+🚀 As a **full-time freelancer**, I am **available for hire**, offering custom AI solutions that drive **innovation** and **efficiency** across diverse industries. From building intelligent chatbots to developing scalable data-driven models, I’m committed to delivering **high-impact results**.
 
 💡 I specialize in:
 - **Advanced Machine Learning Models**: Supervised and unsupervised learning, deep learning, and reinforcement learning.
