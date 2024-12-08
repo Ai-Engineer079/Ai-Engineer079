@@ -2,7 +2,7 @@
 
 👋 **Hello! I'm Abdul Wajid**, an **AI Engineer** with a focus on **Advanced Natural Language Processing (NLP)**, **Generative AI**, and **MLOps**. I specialize in building AI-driven solutions that leverage cutting-edge technologies to solve real-world problems. With a **B.E. in Computer Systems Engineering** from Mehran University of Engineering and Technology, Sindh, I bring a strong technical foundation and hands-on experience in **machine learning**, **NLP**, and software development.
 
-🚀 As a **freelancer**, I am always **open to hire** and offer custom **AI solutions** to drive **innovation** and **efficiency** across industries. From developing intelligent **chatbots** to building **scalable data-driven models**, my goal is to deliver **high-impact results** for businesses and organizations.
+🚀 I am **open to hire** and offer custom **AI solutions** to drive **innovation** and **efficiency** across industries. From developing intelligent **chatbots** to building **scalable data-driven models**, my goal is to deliver **high-impact results** for businesses and organizations.
 
 💡 **My Specializations:**
 - **Advanced Machine Learning**: Supervised and unsupervised learning, deep learning, and reinforcement learning.
@@ -49,9 +49,6 @@ I'm proficient in a wide range of technologies that fuel my AI projects:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-### **Design & Prototyping:**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ---
 
@@ -68,5 +65,3 @@ I'm proficient in a wide range of technologies that fuel my AI projects:
 *I look forward to collaborating on impactful projects that push the boundaries of what's possible with technology.*
 
 ---
-
-This updated version provides a detailed overview of your skills and experience while keeping it professional and engaging. Let me know if you need further modifications!
