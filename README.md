@@ -2,7 +2,7 @@
 
 👋 **Hello! I'm Abdul Wajid**, an **AI Engineer** with a focus on **Advanced Natural Language Processing (NLP)**, **Generative AI**, and **MLOps**. I specialize in building AI-driven solutions that leverage cutting-edge technologies to solve real-world problems. With a **B.E. in Computer Systems Engineering** from Mehran University of Engineering and Technology, Sindh, I bring a strong technical foundation and hands-on experience in **machine learning**, **NLP**, and software development.
 
-🚀 I am **open to hire** and offer custom **AI solutions** to drive **innovation** and **efficiency** across industries. From developing intelligent **chatbots** to building **scalable data-driven models**, my goal is to deliver **high-impact results** for businesses and organizations.
+🚀 I am offer custom **AI solutions** to drive **innovation** and **efficiency** across industries. From developing intelligent **chatbots** to building **scalable data-driven models**, my goal is to deliver **high-impact results** for businesses and organizations.
 
 💡 **My Specializations:**
 - **Advanced Machine Learning**: Supervised and unsupervised learning, deep learning, and reinforcement learning.
